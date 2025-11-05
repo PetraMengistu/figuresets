@@ -43,9 +43,9 @@ ul.slides input {
 }   
 
 .slide-image img {
-    width: auto;
+    width: 70%;
     min-width: 70%;
-    height: 100%;
+    height: 98%;
 }
 
 .carousel-controls {
